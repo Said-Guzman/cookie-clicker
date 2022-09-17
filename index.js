@@ -12,7 +12,11 @@ function increment(){
 
 }
 
+function double(){
+clicks += +1;
+cookies.innerHTML = clicker
 
+}
 
 
 
